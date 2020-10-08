@@ -4,13 +4,14 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.flyingwave</groupId>
-       <artifactId>m</artifactId>
+        <artifactId>microcommunity</artifactId>
+        <version>0.0.1-SNAPSHOT</version>
     </parent>
     <groupId>com.flying</groupId>
     <artifactId>mc-dao</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mc-dao</name>
-    <description>Demo project for Spring Boot</description>
+    <description>mc-dao module for Spring Boot</description>
 
     <properties>
         <java.version>1.8</java.version>
