@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class McDaoApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(McDaoApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(McDaoApplication.class, args);
+    }
 
 }
